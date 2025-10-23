@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B8AFD&center=true&vCenter=true&width=500&lines=Hello+There!+👋;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B8AFD&center=true&vCenter=true&width=500&lines=Hello+gachi+boy!+👋;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -87,8 +87,6 @@
 ---
 
 <div align="center">
-
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
 
