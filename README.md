@@ -26,7 +26,6 @@
 [![Vykusi17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vykusi17&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=6B8AFD&icon_color=6B8AFD&text_color=FFFFFF)](https://github.com/Vykusi17)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vykusi17&theme=github-dark&hide_border=true&background=000000&ring=6B8AFD&fire=6B8AFD&currStreakNum=6B8AFD)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vykusi17&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=6B8AFD&text_color=FFFFFF)](https://github.com/Vykusi17)
 
 </div>
 
