@@ -43,9 +43,6 @@
 
 </div>
 
-### 💻 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vykusi17&layout=compact&theme=github_dark&hide_border=true&hide=html,css)](https://github.com/Vykusi17)
-
 ## 📫 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vykusi17)
 
