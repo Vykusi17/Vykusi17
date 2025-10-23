@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B8AFD&center=true&vCenter=true&width=500&lines=Hello+gachi+boy!+👋;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B8AFD&center=true&vCenter=true&width=500&lines=Hello+gachi+boy!;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
 </div>
 
-## 🛠 Technology Stack
+## Technologies I Use
 
-### 💻 Programming Languages
+### Programming Languages
 <div align="center">
   
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)
@@ -18,7 +18,7 @@
 
 </div>
 
-### 🌐 Web Development
+### Web Development
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
@@ -27,7 +27,7 @@
 
 </div>
 
-### ⚙️ DevOps & Infrastructure
+### DevOps & Infrastructure
 <div align="center">
 
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=000000)
@@ -37,7 +37,7 @@
 
 </div>
 
-### 🗄️ Databases
+### Databases
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
@@ -46,7 +46,7 @@
 
 </div>
 
-### 🎨 Tools & Creative
+### Tools & Creative
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000)
@@ -56,7 +56,7 @@
 
 </div>
 
-### 💾 Operating System
+### Operating System
 <div align="center">
 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&labelColor=000000)
@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 </div>
 
-## 🌐 Connect With Me
+## Connect With Me
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/Vykusi17)
